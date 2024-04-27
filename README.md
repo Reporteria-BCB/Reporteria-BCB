@@ -11,37 +11,37 @@ Con todas las aplicaciones que gustan a los usuarios Facilita que los usuarios c
 Hazte con esta página de aterrizaje gratuita de Bootstrap y crea un sitio web precioso.
 
 
-## Links:
+## Enlaces:
 
 + [Live Preview](http://demos.creative-tim.com/landing-page)
 
-## Quick start
+## Inicio rápido
 
-Quick start options:
+Opciones de inicio rápido:
 
-- [Download from Github](https://github.com/creativetimofficial/awesome-landing-page.git).
-- [Download from Creative Tim](https://www.creative-tim.com/product/awesome-landing-page).
-- Clone the repo: `git clone https://github.com/creativetimofficial/awesome-landing-page.git`.
+- [Descargar desde Github](https://github.com/creativetimofficial/awesome-landing-page.git).
+- Descarga desde Creative Tim](https://www.creative-tim.com/product/awesome-landing-page).
+- Clonar el repositorio: `git clone https://github.com/creativetimofficial/awesome-landing-page.git`.
 
 
-### What's included
+### Qué incluye
 
-Within the download you'll find the following directories and files:
+En la descarga encontrarás los siguientes directorios y archivos:
 
 ```
 awesome_landing_page/
-├── assets/
-|   ├── css/
-|   |   ├── bootstrap.css
-|   |   ├── landing-page.css
-|   |   └── pe-icon-7-stroke.css
-|   ├── js/
-|   |   ├── awesome-landing-page.js
-|   |   ├── bootstrap.js
-|   |   ├── jquery-1.10.2.js
-|   |   ├── jquery-ui-1.10.4.custom.min.js
-|   ├── fonts/
-|   └── img/
+├── activos/
+| ├── css/
+| | ├── bootstrap.css
+| | ├── landing-page.css
+| | └── pe-icon-7-stroke.css
+| ├── js/
+| ├── awesome-landing-page.js
+| | ├── bootstrap.js
+| jquery-1.10.2.js
+| | ├── jquery-ui-1.10.4.custom.min.js
+| ├── fonts/
+| └── img/
 |
 ├── index.html
 ├── phone_app.html
@@ -51,36 +51,36 @@ awesome_landing_page/
 
 ### Version logs
 
-V1.0 23 Dec '14 - Original Release
+V1.0 23 Dic '14 - Versión original
 
-V1.1 7 Ian '15 - Added 4 more theme colors
-- added parallax
-- added new colors for buttons
-- added new colors for icons
+V1.1 7 Ian '15 - Añadido 4 colores más tema
+- añadido parallax
+- añadido nuevos colores para los botones
+- añadido nuevos colores para los iconos
 
-V1.2 20 Jul '15 - Added 2 showcases
-- Showcase 1 - Music App Presentation Page, view it here.
-- Showcase 2 - Custom Scene Web Presentation Page, view it here.
-- bugfixing
-- parallax improvements
-- gradients changes for a better quality
+V1.2 20 Jul '15 - Añadido 2 vitrinas
+- Escaparate 1 - Música App Página de Presentación, verlo aquí.
+- Escaparate 2 - Escena personalizada Web Página de Presentación, verlo aquí.
+- corrección de errores
+- mejoras en el paralaje
+- gradientes cambios para una mejor calidad
 
-V1.2.1 25 Feb '16 - Change to confusing PSD text
-- text adjustments
+V1.2.1 25 Feb '16 - Cambio de texto PSD confuso
+- ajustes de texto
 
-V1.2.2 10 Feb '17 [current version]
-- switched to MIT license. 
+V1.2.2 10 Feb '17 [versión actual]
+- cambiado a la licencia MIT. 
 
 
-### License
+### Licencia
 
 - Copyright 2017 Creative Tim (http://www.creative-tim.com)
-- Licensed under MIT (https://github.com/creativetimofficial/awesome-landing-page/blob/master/LICENSE.md)
+- Licencia bajo MIT (https://github.com/creativetimofficial/awesome-landing-page/blob/master/LICENSE.md)
 
 
-## Useful Links
+## Enlaces útiles
 
-More products from Creative Tim: <http://www.creative-tim.com/products>
+Más productos de Creative Tim: <http://www.creative-tim.com/products>
 
 Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
 
@@ -93,9 +93,5 @@ Social Media:
 Twitter: <https://twitter.com/CreativeTim>
 
 Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
