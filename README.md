@@ -2,13 +2,14 @@
 
 ![alt text](https://s3.amazonaws.com/creativetim_bucket/products/27/original/opt_alp_thumbnail.jpg "Awesome Landing Page")
 
-Be amazed by the best looking bootstrap landing page on the web! It comes with 5 beautiful and bright colors. Your new app deserves an amazing page to show all of its features. Clear visual, light colours and beautifully aligned elements - they all try to make the users aware of your great app features!
+¡Sorpréndete con la página de aterrizaje bootstrap más atractiva de la web! Viene con 5 hermosos y brillantes colores. Tu nueva aplicación merece una página increíble para mostrar todas sus características. Visuales claras, colores claros y elementos bellamente alineados: ¡todo ello intenta que los usuarios sean conscientes de las fantásticas características de tu app!
 
-Build customer confidence by listing your users! Anyone who has used your service and has been pleased with it should have a place here! From Fortune 500 to start-ups, all your app enthusiasts will be glad to be featured in this section. Moreover, users will feel confident seeing someone vouching for your product!
+Genera confianza en tus clientes enumerando a tus usuarios ¡Cualquiera que haya utilizado tu servicio y haya quedado satisfecho con él debería tener un lugar aquí! Desde Fortune 500 a start-ups, todos los entusiastas de tu aplicación estarán encantados de aparecer en esta sección. Además, los usuarios se sentirán seguros al ver que alguien avala su producto.
 
-With all the apps that users love! Make it easy for users to share, like, post and tweet their favourite things from the app. Making use of third app assets should be a must when you design your app. Be sure to let users know they continue to remain connected while using your app!
+Con todas las aplicaciones que gustan a los usuarios Facilita que los usuarios compartan, den a me gusta, publiquen y tuiteen sus cosas favoritas desde la aplicación. Utilizar activos de terceras aplicaciones debería ser una obligación a la hora de diseñar tu aplicación. Asegúrate de que los usuarios sepan que pueden seguir conectados mientras utilizan tu aplicación.
 
-Grab this free bootstrap landing page and create a beautiful website.
+Hazte con esta página de aterrizaje gratuita de Bootstrap y crea un sitio web precioso.
+
 
 ## Links:
 
